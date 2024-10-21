@@ -1,0 +1,8 @@
+/* Custom styles for the megamenu */
+.group:hover .group-hover\:opacity-100 {
+    opacity: 1;
+}
+
+.logo {
+    filter: brightness(0) invert(1) sepia(1) saturate(10000%) hue-rotate(180deg);
+}
